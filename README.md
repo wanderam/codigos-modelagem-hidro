@@ -12,5 +12,5 @@ O código nomeado *sep_hidrograma.ipynb* foi escrito para separar o hidrograma d
 
 Foi desenvolvido um aplicativo via web para divulgação dos resultados de fluxo de base e recarga de aquífero. O app pode ser acessado [aqui](https://hidroapp-ubrzbjvsapplgmsjp96xwbx.streamlit.app/).
 
-Este é um projeto da tese desenvolvida na Pós-Graduação do [Instituto Agronômico de Campinas (IAC)](https://www.iac.sp.gov.br/). <br>
+Este é um projeto da tese desenvolvida no Programa de Pós-Graduação (PPG) do [Instituto Agronômico de Campinas (IAC)](https://www.iac.sp.gov.br/). <br>
 ![Logo-IAC](https://www.forumcampinas.org.br/wp-content/uploads/2014/11/iac-1.png "IAC")
