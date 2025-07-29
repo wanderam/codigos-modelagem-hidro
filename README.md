@@ -10,7 +10,7 @@ Códigos Python (*Jupyter notebooks*) para processar e analisar dados de recarga
 
 O código nomeado *sep_hidrograma.ipynb* foi escrito para separar o hidrograma de vazão em fluxo de base e escoamento superficial. Para realizar a separação do hidrograma, utilizou-se a biblioteca Python *Hydrograph-py* ([Terink W, 2019](https://app.readthedocs.org/projects/hydrograph-py/downloads/pdf/latest/)).
 
-Foi desenvolvido um aplicativo via web para divulgação dos resultados de fluxo de base e recarga de aquífero. O app pode ser acessado [aqui](https://hidroapp-ubrzbjvsapplgmsjp96xwbx.streamlit.app/).
+Complementarmente elaborou-se um aplicativo com a finalidade de apresentar de forma interativa os resultados desse projeto bem como possibilitar o acesso às séries de vazão, escoamento de base e mapas de recarga de aquíferos. O aplicativo pode ser acessado [aqui](https://hidroapp-ubrzbjvsapplgmsjp96xwbx.streamlit.app/).
 
-Este é um projeto da tese desenvolvida no Programa de Pós-Graduação (PPG) do [Instituto Agronômico de Campinas (IAC)](https://www.iac.sp.gov.br/). <br>
+Este é um projeto para divulgar os resultados e procedimentos da tese intitulada **DESEMPENHO DO MODELO HIDROLÓGICO SWAT NAS BACIAS HIDROGRÁFICAS DOS RIOS PIRACICABA, CAPIVARI E JUNDIAÍ: UMA ANÁLISE DO ESCOAMENTO DE BASE E DA RECARGA DE AQUÍFERO** desenvolvida no Programa de Pós-Graduação (PPG) do [Instituto Agronômico de Campinas (IAC)](https://www.iac.sp.gov.br/). <br>
 ![Logo-IAC](https://www.forumcampinas.org.br/wp-content/uploads/2014/11/iac-1.png "IAC")
