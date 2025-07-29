@@ -1,6 +1,6 @@
 # Códigos - Modelagem hidrológica
 
-Códigos Python (*Jupyter notebooks*) para processar e analisar dados de recarga de aquífero das sub-bacias PCJ, referentes ao período de janeiro de 1985 a dezembro de 2020, estimados por meio de modelagem hidrológica, com os modelos hidrológicos [**SWAT**](https://swat.tamu.edu/) e **SWAT-MODFLOW** ([Bailey et al. 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.10933)). Através dos códigos foram gerados mapas de recarga de aquífero média mensal, mapa de carga hidráulica para o final do período de simulação, bem como as séries temporais de recarga de ambos os modelos hidrológicos. As bacias hidrográficas de estudo foram:
+Códigos Python (*Jupyter notebooks*) para processar e analisar dados de recarga de aquífero das sub-bacias PCJ, referentes ao período de janeiro de 1985 a dezembro de 2020, estimados por meio de modelagem hidrológica, com os modelos hidrológicos [**SWAT**](https://swat.tamu.edu/) e **SWAT-MODFLOW** ([Bailey et al. 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.10933)). Para as cinco bacias hidrográficas estudadas, foram gerados mapas de recarga de aquífero média mensal, bem como as séries temporais de recarga de ambos os modelos hidrológicos. As bacias hidrográficas de estudo foram:
 
 - Atibaia (somente região de cabeceira) (1.136,7 $km^2$)
 - Camanducaia (1.040,1 $km^2$)
